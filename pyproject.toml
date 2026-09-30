@@ -1,0 +1,9 @@
+[project]
+name = "rescue-proxy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "remnawave-api>=3.4.5,<3.5",
+]
